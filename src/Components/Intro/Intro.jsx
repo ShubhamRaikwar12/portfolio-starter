@@ -26,7 +26,7 @@ function Intro() {
       <div className="i-left">
         <div className="i-name">
           <span style={{ color: darkMode ? "white" : "" }}>Hy! I Am </span>
-          <span>Andrew Thomas</span>
+          <span>Shubham Raikwar</span>
           <span>
             Frontend Developer woth high level of experience in web designing
             and development, producting the Qualitity work

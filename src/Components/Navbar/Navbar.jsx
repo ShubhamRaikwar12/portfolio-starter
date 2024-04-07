@@ -7,7 +7,7 @@ function Navbar() {
   return (
     <div className="n-wrapper">
         <div className="n-left">
-            <div className="n-name">Andrew</div>
+            <div className="n-name">Shubham</div>
             <Toggle/>
         </div>
         <div className="n-right">
